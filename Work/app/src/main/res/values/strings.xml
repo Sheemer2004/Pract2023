@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Work2023</string>
+    <string-array name="pols">
+        <item>Мужской</item>
+        <item>Женский</item>
+        <item>Ламинад</item>
+        <item>Кафель</item>
+        <item>Паркет</item>
+        <item>Плитка</item>
+        <item>Рецедрептилоид</item>
+    </string-array>
+</resources>
